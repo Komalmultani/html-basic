@@ -1,0 +1,41 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+    background-color: #eaeded;
+
+}
+
+.amazon-header {
+    width: auto;
+    height: 20px;
+    padding: 20px;
+    background-color: black;
+    position: sticky;
+    top: 0;
+}
+
+.amazon-navbar {
+    width: auto;
+    height: 40px;
+    padding: 10;
+    background-color: #232f3e;
+}
+
+.amazon-slider {
+    width: 100%;
+    height: 250px;
+    background-color: 
+    rgb(105, 151, 151);
+}
+
+.amazon-content {
+    width: 100%;
+    height: 1000px;
+    margin: auto;
+
+}
+
+
+
+
+
